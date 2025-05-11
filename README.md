@@ -19,20 +19,12 @@ An Augmented Reality (AR) application designed to help restaurants showcase thei
 - TextMeshPro
 - Custom Particle Systems
 
-
-## 🧰 Setup Instructions
-
-1. Open the project in **Unity Hub**.
-2. Switch to **Android/iOS build target**.
-3. Add **AR Foundation** and your **image targets**.
-4. **Build & Run** on your mobile device.
-
 ---
 
 ## 📝 How to Use
 
-1. Launch the app.
-2. Scan the designated image target for a food item.
+1. Download the .apk file and launch the app.
+2. Scan the designated image target for a food item(the images are in the Images folder).
 3. The 3D dish model will appear in your real-world space.
 4. 🎉 Confetti plays for celebration items like cake!
 5. Tap to view full **description**, **dietary info**, and **price**.
