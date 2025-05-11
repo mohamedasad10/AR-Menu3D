@@ -1,5 +1,6 @@
 # 🍔 AR Restaurant Menu App
-![Alt Text](Images/Burger_AppDemo.jpg)
+<img src="Images/cake.png" alt="Chocolate Cake" width="300" height="200"/>
+
 An Augmented Reality (AR) application designed to help restaurants showcase their menu items in an interactive, engaging, and modern way.
 
 ## 🌟 Features
