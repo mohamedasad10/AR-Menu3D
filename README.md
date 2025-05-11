@@ -1,5 +1,5 @@
 # 🍔 AR Restaurant Menu App
-
+![Alt Text](Images/Burger_AppDemo.jpg)
 An Augmented Reality (AR) application designed to help restaurants showcase their menu items in an interactive, engaging, and modern way.
 
 ## 🌟 Features
